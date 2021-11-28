@@ -31,7 +31,7 @@ I deployed my model using a Flask API that runs as a local webserver. To run the
 - Send a POST request to `127.0.0.1:5000/predict/` with correct JSON format
 
 An example of correct JSON is as follows:
-{
+`{
 	"Animal Type": "Cat",
 	"Breed": "Domestic Medium Hair",
 	"Gender": "Female",
@@ -43,7 +43,7 @@ An example of correct JSON is as follows:
 	"Colors": ["Calico, White"],
 	"Date of Birth": "2021-4-22T00:00:00",
 	"Intake Date": "2021-9-7T16:00:00"
-}
+}`
 
 
 **Extra**
