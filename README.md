@@ -1,4 +1,4 @@
-# README
+# Animal Shelter Predictions
 
 Animal Shelter Predictions is a challenge aimed at prediction how long it will take for cats and dogs to be adopted using classification. 
 
